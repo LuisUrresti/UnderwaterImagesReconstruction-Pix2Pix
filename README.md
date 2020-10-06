@@ -6,4 +6,5 @@ The input images has not a very clear visibility because of the scattering effec
 
 Example 1
 
+https://github.com/LuisUrresti/UnderwaterImagesReconstruction-Pix2Pix/blob/main/results/example_0.png
 
